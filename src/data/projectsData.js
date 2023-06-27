@@ -14,28 +14,26 @@ export const projectsData = [
     projectDesc:
       "This website is a clone of Udemy.com, where we have done the implementation of login,Signup,category and payment pages and also made category page responsive and implemented the functionality to search products based on highest rating, mostpopular etc.",
     tags: ["HTML", "CSS", "Java Script"],
-    code: "https://github.com/hhhrrrttt222111/developer-portfolio",
-    demo: "https://github.com/hhhrrrttt222111/developer-portfolio",
+    code: "https://github.com/pavancodes24/Udemy",
+    demo: "https://sachanarpit.github.io/udemy_clone/",
     image: one,
   },
   {
     id: 2,
     projectName: "Shop it",
-    projectDesc:
-      "Built an End-to-End Flow of ecommerce website",
-    tags: ["Django", "Tailwind CSS"],
-    code: "https://github.com/hhhrrrttt222111/developer-portfolio",
-    demo: "https://github.com/hhhrrrttt222111/developer-portfolio",
+    projectDesc: "Built an End-to-End Flow of ecommerce website",
+    tags: ["React", "Redux", "MUI", "Express"],
+    code: "https://github.com/pavancodes24/ShopIt",
+    demo: "https://github.com/pavancodes24/ShopIt",
     image: two,
   },
   {
     id: 3,
     projectName: "Weather App",
-    projectDesc:
-      "Weather forecast systems and applications predict weather conditions based on multiple parameters.",
-    tags: ["Django", "CSS", "Material Ui"],
-    code: "https://github.com/hhhrrrttt222111/developer-portfolio",
-    demo: "https://github.com/hhhrrrttt222111/developer-portfolio",
+    projectDesc: "Shows Weather data based on city search using reacl time api",
+    tags: ["React", "Redux", "MUI"],
+    code: "https://github.com/pavancodes24/weatherAppApi",
+    demo: "https://weather-app-api-tau.vercel.app/",
     image: three,
   },
 ];
