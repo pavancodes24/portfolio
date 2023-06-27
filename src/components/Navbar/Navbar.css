@@ -1,6 +1,6 @@
 .navbar {
     height: 6.5rem;
-    position: absolute;
+    position: fixed;
     background-color: transparent;
     z-index: 99;
     display: flex;

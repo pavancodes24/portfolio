@@ -4,8 +4,7 @@ export const headerData = {
   name: "Pavan Kumar Ch N ",
   title: "Full Stack Web Developer",
   desciption:
-    "There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-  image:
-    "/pavan.jpg",
+    "Passionate, innovative web developer with a specialization in MERN. Self motivated, curious with a keen interest in building user-centric products. Collaborative and loves building websites, eager to be part of an IT company.",
+  image: "/pavan.jpg",
   resumePdf: resume,
 };
